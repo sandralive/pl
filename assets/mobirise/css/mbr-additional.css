@@ -1801,13 +1801,16 @@ body {
   font-style: italic;
   color: #000000;
   font-weight: 300;
+  text-align: center;
 }
 .cid-rwiVEWhrtU .mbr-author-name {
   font-weight: bold;
   color: #000000;
+  text-align: right;
 }
 .cid-rwiVEWhrtU .mbr-author-desc {
   color: #000000;
+  text-align: right;
 }
 @media (max-width: 991px) {
   .cid-rwiVEWhrtU .mbr-figure,
